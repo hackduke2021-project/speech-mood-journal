@@ -24,3 +24,4 @@ We learned how to call an API, as well as how to make a visually pleasing websit
 Our next step would be to connect the back end to the front end using some sort of Python web framework such as Django. We also hope to use the sentiment analysis and correspond it with shades of white to create a sort of color gradient to implement into our calendar rather than just sticking with the three different colors. Additionally, we would like to have ways to record directly into the website rather than having to upload pre-recorded files.
 
 
+![website](https://imgbb.com/"><img src="https://i.ibb.co/F7Xp8tV/vym.png)
